@@ -22,7 +22,7 @@ $ mvn install
 ```
 
 
-## Run Test Cases
+## Run Test Case
 
 Right click to ```java exercise.test.SentenceParseTest ``` -> Run as JUnit Test
 
